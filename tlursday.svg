@@ -105,10 +105,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8823427"
-     inkscape:cx="715.59765"
-     inkscape:cy="504.159"
+     inkscape:cx="715.59764"
+     inkscape:cy="504.15899"
      inkscape:document-units="mm"
-     inkscape:current-layer="g991"
+     inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:lockguides="false"
      inkscape:measure-start="0,0"
@@ -203,7 +203,7 @@
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="water"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
@@ -410,7 +410,7 @@
          inkscape:groupmode="layer"
          id="layer20"
          inkscape:label="glass"
-         style="display:none"
+         style="display:inline"
          sodipodi:insensitive="true">
         <g
            id="g855"
@@ -491,13 +491,6 @@
            id="path5020-5"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ssssssss" />
-        <ellipse
-           style="fill:none;fill-opacity:1;stroke:#8080f3;stroke-width:0.643809;stroke-miterlimit:50;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="ellipse5022-3"
-           cx="924.763"
-           cy="522.28845"
-           rx="29.510963"
-           ry="4.2387319" />
         <g
            id="g7584"
            transform="matrix(1,0,0,1.1762981,0,-94.334812)">
@@ -665,7 +658,7 @@
        inkscape:groupmode="layer"
        id="layer23"
        inkscape:label="rebel"
-       style="display:inline"
+       style="display:none"
        sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
@@ -826,8 +819,8 @@
        y="0"><tspan
          x="475.59985"
          y="79.98914"
-         id="tspan8146"><tspan
+         id="tspan497"><tspan
            style="font-style:italic;font-weight:bold;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#ffffff"
-           id="tspan8144">T'Lyn T'Lursday</tspan></tspan></text>
+           id="tspan495">T'Lyn T'Lursday</tspan></tspan></text>
   </g>
 </svg>
