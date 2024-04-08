@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="554.09723mm"
+   height="319.5mm"
+   viewBox="0 0 554.09723 319.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="sucks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.50997367"
+     inkscape:cx="813.7675"
+     inkscape:cy="760.82359"
+     inkscape:window-width="1600"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1073.1876"
+       y="581.23016"
+       width="245.5237"
+       height="63.96377"
+       id="rect1402" />
+  </defs>
+  <g
+     inkscape:label="bridge"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(171.87993,11.25)"
+     sodipodi:insensitive="true">
+    <image
+       width="552.09723"
+       height="317.5"
+       preserveAspectRatio="none"
+       xlink:href="bridge.png"
+       id="image83"
+       x="-170.87993"
+       y="-10.25" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="tlyn"
+     sodipodi:insensitive="true">
+    <image
+       width="148.61029"
+       height="189.20137"
+       preserveAspectRatio="none"
+       xlink:href="tlyn.png"
+       id="image171"
+       x="-265.64197"
+       y="53.9179"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.76106961,0,0,0.76106961,-629.58175,-247.96954)"
+       id="text1400"
+       style="font-size:40px;line-height:1.25;font-family:NATS;-inkscape-font-specification:NATS;white-space:pre;shape-inside:url(#rect1402);fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.6948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="97.21624"
+       y="0"><tspan
+         x="1098.4856"
+         y="616.70666"
+         id="tspan7967"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan7965">This guy sucks</tspan></tspan></text>
+  </g>
+</svg>
