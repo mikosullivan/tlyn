@@ -3,7 +3,10 @@
 The files in this repository are those that I use for the
 "T'Lyn T'Lursday" memes that I've been posting to the
 Lower Decks Facebook page. This repository is open source
-(MIT license) and can be used without credit.
+(MIT license) and can be used without credit. The images
+used in the repo are owned by their creators, but I believe
+they can be used on a fair use basis. Disclaimer, I'm not
+a lawyer.
 
 tlursday.svg is the SVG file for assembling the memes. Other
 images are linked to within the SVG file.
